@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomadapterListview</string>
+    <string name="pokemonurl">https://next.json-generator.com/api/json/get/E14trR2lD</string>
+</resources>
